@@ -25,7 +25,7 @@ export class Updater {
 				.showMessageBox(new BrowserWindow(), {
 					type: 'info',
 					title: 'Update available',
-					message: 'A new version of Contact Book is available. Do you want to update now??',
+					message: 'A new version of Home Catalog is available. Do you want to update now??',
 					buttons: ['Update', 'No']
 				})
 				.then((userAction) => {

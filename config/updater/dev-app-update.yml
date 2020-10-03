@@ -1,4 +1,4 @@
 owner: bertolero
-repo: polymer3-trainning-2
+repo: home-catalog
 provider: github
-updaterCacheDirName: contactbook-updater
+updaterCacheDirName: homecatalog-updater
