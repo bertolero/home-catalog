@@ -1,5 +1,5 @@
 import { ipcRenderer } from 'electron';
-import './app-polymer';
+import './app-web';
 
 ipcRenderer.on('open-add-contact', (e, data) => {
 	console.debug(e);

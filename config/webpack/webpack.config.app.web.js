@@ -1,5 +1,5 @@
 module.exports = {
 	entry: {
-		main: './assets/js/components/app-polymer.ts'
+		main: './assets/js/components/app-web.ts'
 	}
 };
